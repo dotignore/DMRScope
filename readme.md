@@ -69,6 +69,9 @@ TS:1 CC1 1 ─▶ 601 (0.7s) Group Call
 TS:1 CC1 1 ─▶ 601 (1.1s) Group Call
 TS:1 CC1 1 ─▶ 601 (1.2s) Group Call
 ```
+
+## Video Guide
+
 ##### DMRSCOPE Guide EN
 
 [![DMRSCOPE Guide EN](https://img.youtube.com/vi/qTi-HwmALXE/0.jpg)](https://www.youtube.com/watch?v=qTi-HwmALXE)

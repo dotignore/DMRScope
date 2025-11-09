@@ -71,24 +71,13 @@ TS:1 CC1 1 ─▶ 601 (1.2s) Group Call
 ```
 ##### DMRSCOPE Guide EN
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/qTi-HwmALXE"
-  title="YDMRSCOPE Guide EN"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![DMRSCOPE Guide EN](https://img.youtube.com/vi/qTi-HwmALXE/0.jpg)](https://www.youtube.com/watch?v=qTi-HwmALXE)
 
 <br>
 
 ##### DMRSCOPE Guide UKR 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/pfoGPluMHyQ"
-  title="DMRSCOPE Guide UKR "
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+
+[![DMRSCOPE Guide UKR](https://img.youtube.com/vi/pfoGPluMHyQ/0.jpg)](https://www.youtube.com/watch?v=pfoGPluMHyQ)
 
 ## 2 Install Sdrtrunk Windows/Linux
 Go to website https://github.com/Dsheirer/sdrtrunk/releases

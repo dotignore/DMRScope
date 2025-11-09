@@ -1,0 +1,12 @@
+torch
+torch-geometric
+py2neo
+networkx
+matplotlib
+igraph
+tkcalendar
+pillow
+reportlab
+openpyxl
+svgwrite
+svglib

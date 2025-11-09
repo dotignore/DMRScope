@@ -2,13 +2,13 @@
 -------------
 
 ##### Startup Window of the Program
-![pic](\pic\first.png)
+![pic](/pic/first.png)
 
 ##### [02] Visualization of Connections between subscribers with filtering and result saving options
-![pic](\pic\01.png)
+![pic](/pic/01.png)
 
 ##### [03] Daily Activity of communication sessions with the ability to split into periods from 1 minute to 24 hours (1440 minutes), including filtering and result saving options
-![pic](\pic\02.png)
+![pic](pic/02.png)
 
 ```
 Total sessions: 447
@@ -44,7 +44,7 @@ Average per hour: 18.6
 ```
 
 ##### [04] Group Connections within a session, with filtering and result saving options
-![pic](\pic\03.png)
+![pic](/pic/03.png)
 
 ```
 2025-05-12 14:05 (Sessions: 8)

@@ -8,7 +8,7 @@
 ![pic](/pic/01.png)
 
 ##### [03] Daily Activity of communication sessions with the ability to split into periods from 1 minute to 24 hours (1440 minutes), including filtering and result saving options
-![pic](pic/02.png)
+![pic](/pic/02.png)
 
 ```
 Total sessions: 447
@@ -94,7 +94,7 @@ TS:1 CC1 1 ─▶ 601 (1.2s) Group Call
 Go to website https://github.com/Dsheirer/sdrtrunk/releases
 Windows version work satble 
 
-![pic](\pic\sdrtrunk.png)
+![pic](/pic/sdrtrunk.png)
 
 ## 3 DMRScope Install
 
@@ -120,16 +120,16 @@ or
 .\run_windows.bat
 ```
 
-![pic](\pic\settings.png)
+![pic](/pic/settings.png)
 
 Gape time [0-60] sec
 Default is 0 second
 This parameter affects the data synchronization. SDRTrunk does not always write data to both files simultaneously; therefore, to find the [TO] parameter, you need to set this value (in seconds) higher if you want higher data quality. I usually set it to 3 seconds.
 WARNING: The higher this value, the longer the conversion process will take.
 
-![pic](\pic\gap_1.png)
+![pic](/pic/gap_1.png)
 
-![pic](\pic\gap_2.png)
+![pic](/pic/gap_2.png)
 
 ## 5 DATA
 test data
